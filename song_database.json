@@ -1,0 +1,51 @@
+{
+    "As If It's Your Last": {
+        "types": [
+            "spotify"
+        ],
+        "website": "https://open.spotify.com/track/1Zyd6zQnC6XIIzmg3hP7Ot",
+        "artist": "BLACKPINK",
+    },
+    "Get Lucky": {
+        "types": [
+            "spotify"
+        ],
+        "website": "https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq?si=EwjlQyWnTIy5t14-CnrPPQ",
+        "artist": [ "Daft Punk", "Pharrell Williams", "Nile Rodgers" ],
+    },
+    "Money On My Mind": {
+        "types": [
+            "youtube"
+        ],
+        "website": "https://www.youtube.com/watch?v=gVa5HUGGPmo",
+        "artist": [ "Sam Smith" ],
+    },
+    "Pink + White": {
+        "types": [
+            "youtube"
+        ],
+        "website": "https://www.youtube.com/watch?v=uzS3WG6__G4",
+        "artist": [ "Frank Ocean" ],
+    },
+    "Out of Focus": {
+        "types": [
+            "soundcloud"
+        ],
+        "website": "https://soundcloud.com/kailas1/out-of-focus",
+        "artist": [ "KAILAS" ],
+    },
+    "Out of Focus": {
+        "types": [
+            "soundcloud"
+        ],
+        "website": "https://soundcloud.com/kailas1/out-of-focus",
+        "artist": [ "KAILAS" ],
+    },
+    "Our New Home": {
+        "types": [
+            "soundcloud"
+        ],
+        "website": "https://soundcloud.com/user-416166523/our-new-home",
+        "artist": [ "Tom Fox" ],
+    },
+}
